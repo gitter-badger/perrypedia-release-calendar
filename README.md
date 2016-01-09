@@ -1,4 +1,6 @@
 # perrypedia-release-calendar
+
+[![Join the chat at https://gitter.im/hakan42/perrypedia-release-calendar](https://badges.gitter.im/hakan42/perrypedia-release-calendar.svg)](https://gitter.im/hakan42/perrypedia-release-calendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Creates an ICF calendar feed for a given part series at perrypedia.proc.org
 
 ## Status
